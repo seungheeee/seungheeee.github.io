@@ -1,10 +1,10 @@
 ---
 layout: home
-title: Jekyll Gitbook Theme
+title: 염승희
 permalink: /
 ---
 
-Make Jelly site have a GitBook look!
+테스트
 
 ## Demo
 
